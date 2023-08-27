@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "411b140534b00988c0775e8dff3995523704d34f1812a5d5115fd2dc4716b718"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "bathazarepdf": {
+            "hashes": [
+                "sha256:1c90e736660d241c14a53fb796cb196ed137c3188283efbd906db5aa6479daeb",
+                "sha256:933f69f81d3a8a5b7f7bc9ed8c5c4c59351f6606abe922796e78628fff1c0b27"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        }
+    },
+    "develop": {}
+}
